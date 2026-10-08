@@ -4,7 +4,7 @@ User-visible changes for VibeLink beta releases. Public installers and updater m
 
 ## [Unreleased]
 
-## [0.1.0] — Pending publication
+## [0.1.0] — 2026-10-08
 
 ### Added
 - Initial Windows Desktop Companion and native Android beta.
