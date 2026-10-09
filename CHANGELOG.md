@@ -4,6 +4,9 @@ User-visible changes for VibeLink beta releases. Public installers and updater m
 
 ## [Unreleased]
 
+### Fixed
+- Corrected the beta application website's Firebase App Check provider to use Fraud Defense (reCAPTCHA Enterprise) instead of deprecated Classic reCAPTCHA.
+
 ## [0.1.0] — 2026-10-08
 
 ### Added
